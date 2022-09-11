@@ -10,16 +10,16 @@
 ## Outcome:
 
 #### We used two different map styles to showcase all the earthquakes that occurred in the past seven days, worldwide.
-![](../Mapping_Earthquakes/Earthquake_Challenge/images/past7days.png)
+![](Earthquake_Challenge/images/past7days.png)
 
 #### The below picture adds the tectonic plates to our original map.
-![](../Mapping_Earthquakes/Earthquake_Challenge/images/tectonicplatesmap.png)
+![](Earthquake_Challenge/images/tectonicplatesmap.png)
 
 #### All of the Major Earthquakes, with a magnitude higher than 4.5, are displayed below, and have darker colors on the markers.
-![](../Mapping_Earthquakes/Earthquake_Challenge/images/majorearthquakes.png)
+![](Earthquake_Challenge/images/majorearthquakes.png)
 
 #### The final screenshot show the same information provided above, it just adds another layer to our original Streets and Satellite layers, a Dark layer, also selected as default layer, so it displays everytime our map is called.
-![](../Mapping_Earthquakes/Earthquake_Challenge/images/thirdmapstyle.png)
+![](Earthquake_Challenge/images/thirdmapstyle.png)
 
 ## Summary:
 
